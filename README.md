@@ -462,11 +462,13 @@ proxy_pass http://private-IP-tomcat:8080/student/;
 systemctl restart nginx
 ````
 ### $\color{red} \textbf{Go \ To \ Browser \ Hit \ Public-IP \ Nginx}$
-![Screenshot 2024-06-15 135623](https://github.com/guru6910/3-tier-project-terraform/assets/169146749/91d09a58-ae38-49eb-a03e-0e4ea8fef02b)
+![image](https://github.com/aarti215/student-app-3-tier-project/assets/171672859/cda6b022-9003-438b-89d4-fc00a3fe4e3a)
+
 
 
 ### $\color{red} \textbf{Here \ are \ the \ Output \ -Registered \ Student-Data}$
-![Screenshot 2024-06-15 140637](https://github.com/guru6910/3-tier-project-terraform/assets/169146749/7ca6ca6f-0c50-432f-829d-186cb3ca76db)
+
+![image](https://github.com/aarti215/student-app-3-tier-project/assets/171672859/c11d08d4-a5fa-4a11-8816-0a5b9ffd2b65)
 
 
 
